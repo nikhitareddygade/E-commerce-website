@@ -1,0 +1,13 @@
+.overlay{
+    margin-top: 1rem;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: .6rem;
+}
+
+.text-center{
+    font-size: 30px;
+    font-weight: 600;
+    margin-top: 20px;
+}
